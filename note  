@@ -1,0 +1,5 @@
+The replace() method replaces a string with another string:
+The strip() method removes any whitespace from the beginning or the end:
+The split() method returns a list where the text between the specified separator becomes the list items.
+The format() method takes the passed arguments, formats them, and places them in the string where the placeholders {} are:
+The capitalize() method returns a string where the first character is upper case, and the rest is lower case.
